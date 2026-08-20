@@ -1,5 +1,12 @@
 # DDR Sandbox
 
+## Current visual
+
+![Current visual status](docs/status/current.png)
+
+> Status evidence only: this repository does not yet contain a verified runnable screen.
+
+
 A historically grounded open-world sandbox / immersive-sim prototype about everyday movement, surveillance, social systems and moral choices in the GDR. The project must distinguish documented history from reconstruction and fiction.
 
 ## Product thesis
